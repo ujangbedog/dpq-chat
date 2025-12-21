@@ -4,9 +4,6 @@ A secure peer-to-peer chat application built with Rust that implements post-quan
 
 Features a terminal-based interface with real-time messaging, decentralized architecture (no central servers), and hybrid cryptographic protocols that combine classical and post-quantum algorithms for maximum security.
 
-> **⚠️ Development Notice**  
-> This project is currently under active development. Features and APIs may change.
-
 ## Architecture Overview
 
 **Transport Layer Security**
